@@ -21,10 +21,3 @@ Users can:
 - Turn off the machine
 The interface provides clear feedback through formatted messages and status updates, ensuring a smooth user experience.
 
-## Educational Value
-This project serves as an excellent example of:
-- Object-Oriented Programming (OOP) principles
-- Resource management algorithms
-- Financial transaction handling
-- User input processing and validation
-- State management in programming
